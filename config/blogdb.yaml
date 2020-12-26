@@ -1,0 +1,8 @@
+postgres:
+  database: blog
+  user: postgres
+  password: postgres
+  host: db
+  port: 5432
+  minsize: 1
+  maxsize: 5
